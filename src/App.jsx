@@ -9,7 +9,6 @@ function App() {
     <>
       <TrafficLights  direction="toul"/>
       <TrafficLights direction="ordh"/>
-      <TrafficLights  direction="toul"/>
 
     </>
   )
